@@ -12,3 +12,7 @@ public interface FetchRepo extends JpaRepository<Td,Integer>
 	List<Td> findAll();
 
 }
+
+
+
+//This is myy repository inrterface

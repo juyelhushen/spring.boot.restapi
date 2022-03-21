@@ -5,6 +5,8 @@ import javax.persistence.*;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonFormat.Shape;
 
+
+//Moodel class   
 @Entity
 @Table(name = "td")
 public class Td 
